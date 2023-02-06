@@ -1,0 +1,26 @@
+Using template '/Applications/Unity/Hub/Editor/2021.3.18f1/PlaybackEngines/AndroidPlayer/Apk/UnityManifest.xml'
+
+android.hardware.vulkan.version was added because:
+	One of the graphics devices was Vulkan
+android.permission.INTERNET was added because:
+	UnityEngine.Networking was present in:
+		Unity.InputSystem-FeaturesChecked.txt
+		Facebook.Wit.TTS-FeaturesChecked.txt
+	System.Net.Sockets was present in:
+		Oculus.VR-FeaturesChecked.txt
+	UnityEngine.Network was present in:
+		Unity.InputSystem-FeaturesChecked.txt
+		Facebook.Wit.TTS-FeaturesChecked.txt
+	UnityEngine.Networking.UnityWebRequest was present in:
+		Facebook.Wit.TTS-FeaturesChecked.txt
+android.permission.RECORD_AUDIO, android.permission.MODIFY_AUDIO_SETTINGS, android.permission.BLUETOOTH, android.hardware.microphone were added because:
+	UnityEngine.Microphone was present in:
+		Oculus.LipSync-FeaturesChecked.txt
+		Facebook.WitAI-FeaturesChecked.txt
+android.hardware.touchscreen.multitouch, android.hardware.touchscreen.multitouch.distinct were enabled because:
+	UnityEngine.Input::GetTouch was present in:
+		UnityEngine.UI-FeaturesChecked.txt
+		Unity.XR.Interaction.Toolkit-FeaturesChecked.txt
+	UnityEngine.Input::get_touchCount was present in:
+		UnityEngine.UI-FeaturesChecked.txt
+		Unity.XR.Interaction.Toolkit-FeaturesChecked.txt
