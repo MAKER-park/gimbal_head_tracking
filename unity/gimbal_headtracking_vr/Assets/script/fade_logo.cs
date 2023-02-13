@@ -10,9 +10,6 @@ public class fade_logo : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
-        //coroutine func init
-        StartCoroutine(Timer());
         
     }
 
@@ -20,16 +17,5 @@ public class fade_logo : MonoBehaviour
     void Update()
     {
         
-    }
-
-    IEnumerator Timer(){
-        while(true){
-            Debug.Log(System.DateTime.Now);
-            yield return new WaitForSeconds(0.5f);
-        }
-    }
-
-    private StopTimer(){
-        StopCoroutine(Timer());
     }
 }
