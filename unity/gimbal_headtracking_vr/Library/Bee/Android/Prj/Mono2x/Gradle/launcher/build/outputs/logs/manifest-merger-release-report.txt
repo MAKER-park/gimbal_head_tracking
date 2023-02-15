@@ -5,8 +5,8 @@ INJECTED from /Users/bagjaewan/Documents/GitHub/gimbal_head_tracking/unity/gimba
 INJECTED from /Users/bagjaewan/Documents/GitHub/gimbal_head_tracking/unity/gimbal_headtracking_vr/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
 INJECTED from /Users/bagjaewan/Documents/GitHub/gimbal_head_tracking/unity/gimbal_headtracking_vr/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
 MERGED from [:unityLibrary] /Users/bagjaewan/Documents/GitHub/gimbal_head_tracking/unity/gimbal_headtracking_vr/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-103:12
-MERGED from [:InteractionSdk:] /Users/bagjaewan/.gradle/caches/transforms-2/files-2.1/6bb324c36a1b8de620d5505021faa758/InteractionSdk/AndroidManifest.xml:2:1-9:12
-MERGED from [:OVRPlugin:] /Users/bagjaewan/.gradle/caches/transforms-2/files-2.1/1d043134fa4a09d946d5046aff8db859/OVRPlugin/AndroidManifest.xml:2:1-9:12
+MERGED from [:InteractionSdk:] /Users/bagjaewan/.gradle/caches/transforms-2/files-2.1/54125fd9f003f42b59ab8ebb08b0439d/AndroidManifest.xml:2:1-9:12
+MERGED from [:OVRPlugin:] /Users/bagjaewan/.gradle/caches/transforms-2/files-2.1/e1bdd3a3ed978df856936be333646525/AndroidManifest.xml:2:1-9:12
 INJECTED from /Users/bagjaewan/Documents/GitHub/gimbal_head_tracking/unity/gimbal_headtracking_vr/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
 INJECTED from /Users/bagjaewan/Documents/GitHub/gimbal_head_tracking/unity/gimbal_headtracking_vr/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
 INJECTED from /Users/bagjaewan/Documents/GitHub/gimbal_head_tracking/unity/gimbal_headtracking_vr/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:2:1-5:12
@@ -60,10 +60,10 @@ INJECTED from /Users/bagjaewan/Documents/GitHub/gimbal_head_tracking/unity/gimba
 INJECTED from /Users/bagjaewan/Documents/GitHub/gimbal_head_tracking/unity/gimbal_headtracking_vr/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
 MERGED from [:unityLibrary] /Users/bagjaewan/Documents/GitHub/gimbal_head_tracking/unity/gimbal_headtracking_vr/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-11:41
 MERGED from [:unityLibrary] /Users/bagjaewan/Documents/GitHub/gimbal_head_tracking/unity/gimbal_headtracking_vr/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-11:41
-MERGED from [:InteractionSdk:] /Users/bagjaewan/.gradle/caches/transforms-2/files-2.1/6bb324c36a1b8de620d5505021faa758/InteractionSdk/AndroidManifest.xml:7:5-47
-MERGED from [:InteractionSdk:] /Users/bagjaewan/.gradle/caches/transforms-2/files-2.1/6bb324c36a1b8de620d5505021faa758/InteractionSdk/AndroidManifest.xml:7:5-47
-MERGED from [:OVRPlugin:] /Users/bagjaewan/.gradle/caches/transforms-2/files-2.1/1d043134fa4a09d946d5046aff8db859/OVRPlugin/AndroidManifest.xml:7:5-47
-MERGED from [:OVRPlugin:] /Users/bagjaewan/.gradle/caches/transforms-2/files-2.1/1d043134fa4a09d946d5046aff8db859/OVRPlugin/AndroidManifest.xml:7:5-47
+MERGED from [:InteractionSdk:] /Users/bagjaewan/.gradle/caches/transforms-2/files-2.1/54125fd9f003f42b59ab8ebb08b0439d/AndroidManifest.xml:7:5-47
+MERGED from [:InteractionSdk:] /Users/bagjaewan/.gradle/caches/transforms-2/files-2.1/54125fd9f003f42b59ab8ebb08b0439d/AndroidManifest.xml:7:5-47
+MERGED from [:OVRPlugin:] /Users/bagjaewan/.gradle/caches/transforms-2/files-2.1/e1bdd3a3ed978df856936be333646525/AndroidManifest.xml:7:5-47
+MERGED from [:OVRPlugin:] /Users/bagjaewan/.gradle/caches/transforms-2/files-2.1/e1bdd3a3ed978df856936be333646525/AndroidManifest.xml:7:5-47
 INJECTED from /Users/bagjaewan/Documents/GitHub/gimbal_head_tracking/unity/gimbal_headtracking_vr/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
 INJECTED from /Users/bagjaewan/Documents/GitHub/gimbal_head_tracking/unity/gimbal_headtracking_vr/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
 	android:targetSdkVersion

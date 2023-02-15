@@ -19,8 +19,10 @@ android.permission.RECORD_AUDIO, android.permission.MODIFY_AUDIO_SETTINGS, andro
 		Facebook.WitAI-FeaturesChecked.txt
 android.hardware.touchscreen.multitouch, android.hardware.touchscreen.multitouch.distinct were enabled because:
 	UnityEngine.Input::GetTouch was present in:
+		Assembly-CSharp-FeaturesChecked.txt
 		UnityEngine.UI-FeaturesChecked.txt
 		Unity.XR.Interaction.Toolkit-FeaturesChecked.txt
 	UnityEngine.Input::get_touchCount was present in:
+		Assembly-CSharp-FeaturesChecked.txt
 		UnityEngine.UI-FeaturesChecked.txt
 		Unity.XR.Interaction.Toolkit-FeaturesChecked.txt

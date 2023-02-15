@@ -4,6 +4,10 @@
         "source": "/Users/bagjaewan/Documents/GitHub/gimbal_head_tracking/unity/gimbal_headtracking_vr/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
     },
     {
+        "merged": "/Users/bagjaewan/Documents/GitHub/gimbal_head_tracking/unity/gimbal_headtracking_vr/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/res/merged/release/xml_network_sec_config.xml.flat",
+        "source": "/Users/bagjaewan/Documents/GitHub/gimbal_head_tracking/unity/gimbal_headtracking_vr/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/packaged_res/release/xml/network_sec_config.xml"
+    },
+    {
         "merged": "/Users/bagjaewan/Documents/GitHub/gimbal_head_tracking/unity/gimbal_headtracking_vr/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_background.png.flat",
         "source": "/Users/bagjaewan/Documents/GitHub/gimbal_head_tracking/unity/gimbal_headtracking_vr/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_background.png"
     },
